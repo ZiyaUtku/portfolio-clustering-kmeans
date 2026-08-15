@@ -55,6 +55,5 @@ The plots are saved into the `figures` folder.
 ## Files
 
 - `portfolio_clustering.py` - the whole analysis
-- `medium_article.md` - the Medium article
 - `requirements.txt`
 - `figures/` - the 9 charts
